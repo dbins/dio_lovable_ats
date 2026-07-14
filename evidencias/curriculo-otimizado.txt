@@ -1,0 +1,50 @@
+# <<NOME>>
+**<<CARGO 1>> | <<CARGO 2>>**
+<<CIDADE>> | <<TELEFONE>> | <<EMAIL>>
+[LinkedIn](<<LINKEDIN>>) | [GitHub](<<GITHUB>>)
+
+## Resumo profissional
+Engenheira de Produção com sólida experiência na área de dados, com foco em análise, gerenciamento e visualização de indicadores. Especialista técnica em SQL e Power BI, com histórico comprovado no desenvolvimento de dashboards para suporte à decisão, gestão de custos em nuvem e acompanhamento de incidentes. Possui experiência na interface com unidades de negócio para levantamento de requisitos e sustentação de processos de DevOps para banco de dados. Certificada pela Microsoft em Azure Data Fundamentals (DP-900).
+
+## Competências
+*   **Visualização de Dados:** Power BI, Elaboração de Dashboards de Performance, Relatórios Gerenciais.
+*   **Banco de Dados:** SQL Server, SQL, MySQL, Azure Data (Relacional e Não Relacional), Gerenciamento de Serviços em Nuvem.
+*   **Programação e Ferramentas:** Python, R, Git, Visual Studio, Azure DevOps.
+*   **Análise e Processos:** Análise de Performance, Otimização de Processos, Levantamento de Requisitos, Gestão de Custos (FinOps), Gestão de Permissões.
+
+## Experiência profissional
+
+**Wiz Soluções**
+*Analista de Banco de Dados* | ******* – Presente
+*   Responsável pela análise, gerenciamento e otimização de performance da plataforma de dados corporativa.
+*   Desenvolvimento e gestão de dashboards no Power BI para acompanhamento de custos em nuvem (FinOps) das unidades de negócio, fornecendo visibilidade direta para stakeholders.
+*   Sustentação de processos de DevOps voltados a banco de dados, utilizando as plataformas Microsoft Azure DevOps e Visual Studio.
+*   Atuação na melhoria contínua de serviços de dados e garantia de disponibilidade da plataforma.
+
+*Estagiária em Banco de Dados* | ******** – ***********
+*   Gerenciamento de serviços de banco de dados (SQL Server e MySQL) em ambiente Cloud (Azure).
+*   Provisionamento de recursos para dados e Analytics em nuvem.
+*   Execução e acompanhamento de rotinas de manutenção e gestão de permissões de acesso.
+*   Construção de relatórios automatizados no Power BI para gestão de incidentes e monitoramento de ativos.
+
+**ANAC (Agência Nacional de Aviação Civil)**
+*Estagiária em Planejamento de Projetos* | ********* – **********
+*   Elaboração de relatórios de acompanhamento para projetos da Superintendência Técnica de Informação (STI).
+*   Gestão financeira de contratos com empresas terceirizadas através de dashboards desenvolvidos em Power BI.
+*   Análise de dados contratuais para suporte ao planejamento estratégico da área de TI.
+
+## Formação
+*   **Graduação em Engenharia de Produção** – Universidade de Brasília (UnB), 2020.
+
+## Certificações
+*   **DP-900: Microsoft Azure Data Fundamentals** – Microsoft.
+*   **Bootcamp Analista de Dados** – IGTI (2021).
+*   **SQL PRO** – Professor Alan Duarte (Entendendo BI).
+*   **Microsoft Power BI para Data Science** – Data Science Academy (2021).
+
+## Idiomas
+*   **Inglês:** Nível Avançado.
+
+## Informações adicionais
+*   Domínio completo do Pacote Office (Excel Avançado).
+*   Familiaridade com metodologias ágeis e ambiente DevOps.

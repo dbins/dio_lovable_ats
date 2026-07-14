@@ -1,0 +1,69 @@
+<<NOME >>
+<<CARGO >>
+Contato:
+<<E-MAIL>>
+<<TELEFONE>>
+Portifólio virtual:
+<<PORTFOLIO>>
+Linkedin:
+<<LINKEDIN>>
+Apresentação:
+Espero poder cooperar no desenvolvimento e melhoria dos processos da empresa.
+Busco aprimorar minha experiência na área de dados e aplicar os conhecimentos adquiridos.
+Tenho motivação e iniciativa, estou acostumada a trabalhar em equipe para realizar projetos.
+Formação:
+- Engenharia de Produção - Universidade de
+Brasília (2016-2020)
+Cursos:
+-SQL PRO (Professor Alan Duarte - Entendendo BI)
+-Microsoft Power BI para Data Sciente - Data
+Science Academy (término previsto para
+09/2021)
+- Bootcamp Analista de Dados - IGTI (término
+previsto para 07/2021)
+Certificação:
+- DP-900 - Microsoft Azure Data Fundamentals
+(conhecimentos em banco de dados, relacional
+e não relacional, implementados pelo
+Azure)
+Habilidades:
+Python.....................
+R ...........................
+SQL Server..............
+SQL........................
+Git...........................
+Banco de Dados......
+Power BI..................
+Microsoft Azure........
+Inglês......................
+Pacote Office...........
+Experiência profissional:
+-Analista de Banco de Dados - Wiz
+Soluções (********** - Atual)
+Responsável pela análise, gerenciamento e
+melhoria da performance dos serviços relacionados
+à plataforma de dados. Desenvolvimento
+e gerenciamento de relatório para acompanhamento
+dos custos em nuvem das unidades de
+negócio da empresa no Power BI. Sustentação
+do processo de DevOps para banco de
+dados,utilizando a plataforma de DevOps
+(Microsoft) e Visual Studio. _
+-Estágio em Banco de Dados - Wiz
+Soluções (********** - **********). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Responsável por gerenciamento de serviços de
+banco de dados (SQL Server, MySQL) em
+nuvem, acompanhamento de rotinas de
+manutenção de banco de dados, provisionamento
+de recursos de dados e analytics em
+nuvem. Além da construção de relatórios para
+acompanhamento de incidentes e gestão de
+permissões utilizando o Power BI.
+-Estágio em planejamento de projetos –
+ANAC (********** - **********)
+Responsável pela elaboração de relatórios de
+acompanhamento dos projetos desenvolvidos
+pela Superintendência Técnica de Informação
+(STI) e gestão financeira dos contratos com
+empresas terceirizadas através do software
+Power BI. .
