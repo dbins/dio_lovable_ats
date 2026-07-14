@@ -1,0 +1,279 @@
+Crie uma aplicação web moderna, minimalista e extremamente simples chamada **ATS Resume Match**. O objetivo da aplicação é ajudar candidatos a adaptar seus currículos para uma vaga específica, gerando uma versão otimizada para sistemas ATS (Applicant Tracking System).
+
+## Objetivo da aplicação
+
+O usuário deverá fornecer:
+
+1. O texto completo do seu currículo atual.
+2. O texto completo da descrição da vaga.
+
+Após clicar em um botão, a aplicação deverá gerar um novo currículo otimizado para a vaga, preservando sempre a veracidade das informações fornecidas.
+
+A aplicação NÃO deve inventar experiências profissionais, formações, certificações, idiomas, tecnologias ou resultados que não estejam presentes no currículo original.
+
+Ela deve apenas:
+
+* reorganizar informações;
+* melhorar a redação;
+* destacar competências já existentes;
+* incorporar naturalmente palavras-chave da vaga quando elas forem compatíveis com a experiência real do candidato;
+* tornar o currículo mais amigável para ATS.
+
+---
+
+# Público-alvo
+
+Usuários com pouco conhecimento em informática.
+
+Portanto, toda a experiência deve ser extremamente intuitiva.
+
+Não utilizar menus desnecessários, configurações complexas ou telas extras.
+
+Tudo deve acontecer em uma única página.
+
+---
+
+# Identidade visual
+
+Criar um design elegante inspirado em produtos modernos como Linear, Notion e Stripe.
+
+Paleta:
+
+* Preto
+* Branco
+* Tons de cinza
+
+Não utilizar cores vibrantes.
+
+Utilizar bastante espaço em branco.
+
+Layout limpo.
+
+Bordas suaves.
+
+Sombras discretas.
+
+Tipografia moderna.
+
+---
+
+# Estrutura da página
+
+## Cabeçalho
+
+Título:
+
+**ATS Resume Match**
+
+Subtítulo:
+
+"Transforme seu currículo em uma versão otimizada para a vaga, mantendo todas as informações verdadeiras."
+
+---
+
+## Área principal
+
+Dois grandes campos de texto lado a lado em desktop.
+
+Em dispositivos móveis, um abaixo do outro.
+
+### Campo 1
+
+Título:
+
+Currículo
+
+Placeholder:
+
+"Cole aqui o texto completo do seu currículo..."
+
+---
+
+### Campo 2
+
+Título:
+
+Descrição da vaga
+
+Placeholder:
+
+"Cole aqui a descrição completa da vaga..."
+
+---
+
+Abaixo dos campos:
+
+Botão grande.
+
+Texto:
+
+**Gerar currículo otimizado**
+
+Enquanto estiver processando:
+
+* mostrar spinner;
+* desabilitar botão.
+
+---
+
+## Resultado
+
+Após gerar:
+
+Exibir um card contendo:
+
+# Currículo otimizado
+
+O currículo deve aparecer formatado.
+
+Separar claramente as seções:
+
+* Resumo profissional
+* Competências
+* Experiência profissional
+* Formação
+* Certificações
+* Idiomas
+* Informações adicionais
+
+Caso alguma seção não exista no currículo original, simplesmente não exibi-la.
+
+---
+
+Ao lado do resultado disponibilizar os botões:
+
+* Copiar currículo
+* Baixar como TXT
+
+---
+
+# Prompt enviado para a IA
+
+Quando o usuário clicar em "Gerar currículo otimizado", enviar para a IA exatamente a seguinte instrução (substituindo os textos pelos dados do usuário):
+
+---
+
+Você é um especialista em recrutamento, ATS (Applicant Tracking Systems) e escrita profissional de currículos.
+
+Sua missão é reescrever o currículo do candidato para aumentar sua compatibilidade com a vaga informada.
+
+Regras obrigatórias:
+
+* Nunca invente experiências.
+* Nunca invente empresas.
+* Nunca invente cargos.
+* Nunca invente tecnologias.
+* Nunca invente certificações.
+* Nunca invente formações.
+* Nunca invente idiomas.
+* Nunca invente resultados.
+* Nunca invente números.
+
+Você pode:
+
+* reorganizar informações;
+* melhorar a escrita;
+* destacar competências existentes;
+* utilizar palavras-chave da vaga somente quando forem compatíveis com a experiência do candidato;
+* melhorar a estrutura do currículo;
+* remover informações redundantes.
+
+O currículo final deve ser:
+
+* profissional;
+* objetivo;
+* ATS friendly;
+* organizado;
+* fácil de ler.
+
+Retorne apenas o currículo final em formato Markdown.
+
+Currículo:
+
+{{curriculo}}
+
+Descrição da vaga:
+
+{{vaga}}
+
+---
+
+# UX
+
+Adicionar contador de caracteres em ambos os campos.
+
+Salvar automaticamente os textos no Local Storage.
+
+Caso a página seja atualizada, recuperar os textos.
+
+Mostrar mensagens amigáveis caso algum campo esteja vazio.
+
+Exemplo:
+
+"Por favor, informe seu currículo."
+
+"Por favor, informe a descrição da vaga."
+
+---
+
+# Responsividade
+
+A aplicação deve funcionar perfeitamente em:
+
+* Desktop
+* Tablet
+* Smartphone
+
+---
+
+# Componentes
+
+Utilizar componentes modernos.
+
+Botões grandes.
+
+Inputs arredondados.
+
+Cards com cantos arredondados.
+
+Sombras discretas.
+
+Boa hierarquia visual.
+
+---
+
+# Acessibilidade
+
+Seguir boas práticas de acessibilidade:
+
+* contraste adequado;
+* navegação por teclado;
+* labels visíveis;
+* foco visível;
+* suporte a leitores de tela.
+
+---
+
+# Arquitetura
+
+Organizar o código de forma limpa.
+
+Separar componentes.
+
+Criar componentes reutilizáveis.
+
+Utilizar boas práticas de React.
+
+---
+
+# Extras
+
+Adicionar um pequeno aviso abaixo do resultado:
+
+"Este currículo foi otimizado para melhorar a compatibilidade com sistemas ATS. Revise o conteúdo antes de utilizá-lo para garantir que todas as informações representem sua experiência profissional de forma precisa."
+
+Implementar animações suaves (fade e slide) na exibição do resultado.
+
+Toda a interface deve transmitir simplicidade, velocidade e confiança.
+
+O foco principal da aplicação deve ser permitir que um usuário copie e cole dois textos, clique em um único botão e obtenha um currículo otimizado em poucos segundos, sem distrações ou etapas desnecessárias.

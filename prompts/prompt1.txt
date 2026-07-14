@@ -1,0 +1,7 @@
+Eu quero criar uma aplicação usando Lovable para fazer matchmaking de vagas de emprego. O objetivo é o usuário inserir um texto contendo o seu currículo e um outro texto contendo a descrição da vaga. 
+
+O resultado que deve ser gerado é um novo currículo, compatível com a vaga. Desta forma, o novo currículo vai ser ATS friendly, o que vai aumentar as chances do usuário de ser aprovado na triagem do currículo.
+
+Desejo que ele seja construído seguindo as boas práticas de UI e UX. As cores desejadas são preto e branco. A aplicação não vai precisar de login e deve ser bem simples de usar por usuários com pouco conhecimento com informática.
+
+Por favor gere o prompt que eu preciso mandar para o Lovable.
